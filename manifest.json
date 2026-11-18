@@ -1,0 +1,28 @@
+{
+  "name": "ماشین حساب مهندسی",
+  "short_name": "ماشین حساب",
+  "description": "ماشین حساب مهندسی با کسر عمودی، صدا و افکت گوست",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#23233a",
+  "theme_color": "#23233a",
+  "lang": "fa",
+  "dir": "rtl",
+  "categories": ["utilities", "productivity"],
+  "icons": [
+    {
+      "src": "icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
